@@ -4,15 +4,15 @@ This responsive application lets the user input any tags in a search bar and the
 
 **_How to use it_**
 
-_first of all. Clone the project_
+## First of all. Clone the project
 
-## `git clone https://github.com/Byevenes/prueba-frontend-rokket.git`
+### `git clone https://github.com/Byevenes/prueba-frontend-rokket.git`
 
-_or donwload in .zip_
+## or donwload in .zip
 
-_Second. Install dependencies of the project_
+## Second. Install dependencies of the project
 
-## `npm install` or `yarn install`
+### `npm install` or `yarn install`
 
 ## Available Scripts
 
