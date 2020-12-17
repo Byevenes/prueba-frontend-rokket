@@ -1,12 +1,24 @@
-# Getting Started with Create React App
+**_RokketLabs -Brayan YÉVENES - Jr. Front-end developer_**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This responsive application lets the user input any tags in a search bar and then shows all posts containing that specific tag.
+
+**_How to use it_**
+
+_first of all. Clone the project_
+
+## `git clone https://github.com/Byevenes/prueba-frontend-rokket.git`
+
+_or donwload in .zip_
+
+_Second. Install dependencies of the project_
+
+## `npm install` or `yarn install`
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm start or yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -16,7 +28,7 @@ You will also see any lint errors in the console.
 
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode using enzyme and jest.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn build`
