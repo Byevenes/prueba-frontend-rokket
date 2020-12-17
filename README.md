@@ -1,8 +1,8 @@
-**_RokketLabs -Brayan YÉVENES - Jr. Front-end developer_**
+# RokketLabs -Brayan YÉVENES - Jr. Front-end developer
 
 This responsive application lets the user input any tags in a search bar and then shows all posts containing that specific tag.
 
-**_How to use it_**
+## How to use it
 
 ## First of all. Clone the project
 
